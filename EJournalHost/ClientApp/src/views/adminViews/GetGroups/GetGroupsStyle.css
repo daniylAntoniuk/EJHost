@@ -1,0 +1,28 @@
+.default-name{
+    background-color: #cecece;
+    color:#767f94;
+}
+.default-curator{
+    color: rgb(22, 3, 65);
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 5px 0px 10px 0px;
+}
+.default-count{
+    font-weight: 550 !important;
+    color: #0a1220;
+    float: left;
+    padding-top: 5px;
+}
+.badge{
+    background-color:rgb(243, 76, 10) !important;
+    float: right;
+}
+.textF{
+    width:75% !important;
+}
+.selectW{
+    width:150px;
+}
+.aRedirect{
+    text-decoration: none !important;
+}

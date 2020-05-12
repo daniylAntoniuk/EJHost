@@ -1,0 +1,6 @@
+.boxSizing{
+    box-sizing: border-box;
+}
+.hover-cursor :hover{
+    cursor: pointer;
+}

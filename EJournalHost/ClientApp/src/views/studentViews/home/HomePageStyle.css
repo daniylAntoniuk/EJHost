@@ -1,0 +1,39 @@
+.mark{
+    padding: 5px;
+    color: white;
+    border-radius: 50%;
+    height: 40px;
+    width:40px;
+    font-size: 25px;
+    line-height: 30px;
+    background-color: rgb(235, 169, 28);
+    text-align: center;
+}
+.text-color{
+    color:#0879a0;
+}
+.card-bg-color{
+    background-color: #1f8afc!important;
+    color:white;
+}
+.border-wh{
+    border: white 3px solid;
+}
+.link{
+    color: white;
+    text-decoration:none;
+}
+.link:hover{
+    color: rgb(235, 235, 235);
+    text-decoration:none;
+}
+/* .animate:hover{
+    margin-left:40px;
+  -webkit-transition: margin 1s;
+  -moz-transition: margin 1s;
+  transition: margin 1s;
+} */
+/* .max-height{
+    max-height: 250px;
+    overflow: scroll;
+} */
